@@ -1,2 +1,1 @@
-# Cli-simple-cal
-Cli-calculator
+#npx shayan-baloch-simplecalculator
